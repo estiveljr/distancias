@@ -1,0 +1,16 @@
+setup.py
+distancias/__init__.py
+distancias/items.py
+distancias/middlewares.py
+distancias/pipelines.py
+distancias/settings.py
+distancias/spiders/__init__.py
+distancias/spiders/basecidades.py
+distancias/spiders/distancia1.py
+distancias/spiders/distancia2.py
+distancias/spiders/temp2.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
