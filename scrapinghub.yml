@@ -1,6 +1,6 @@
 projects:
   default: 365075
-  prod: 365075
+  # prod: 33333
 
 requirements:
   file: requirements.txt

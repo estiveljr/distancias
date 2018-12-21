@@ -1,6 +1,4 @@
-from basecidades import cidades
 import scrapy
-import xlrd
 
 #scrapy runspider distancia1.py -o dist1.json
 #shub deploy-reqs 365075 requirements-deploy.txt  
